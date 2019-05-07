@@ -1,0 +1,105 @@
+/*DEVELOPER: Joseph Onwusoanya, IS117-006, Spring, 2018 */
+    nav a {
+        font-family: 'Berkshire Swash', cursive;
+        font-size: larger;
+    }
+
+    .dropdown-item {
+        font-size: medium;
+    }
+
+    .navbar {
+        background-color: #014213;
+    }
+
+    .dropdown-menu {
+        background-color: #095900;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+    }
+    
+    body {
+        background-color: #01210a;
+    }
+    .dropdown-item, a:hover
+    {
+        color: white;
+        background-color: #0b2e13;
+    }
+.table {
+    border-bottom:0px !important;
+}
+.table th, .table td {
+    border: 1px !important;
+}
+.fixed-table-container {
+    border:0px !important;
+}
+html {
+    border:0px !important;
+}
+
+.card{
+    background-color: #01210a;
+    color: white;
+}
+    .card .card-body, .jumbotron {
+        background-color: #0b2e13;
+        color: white;
+        font-family: 'Berkshire Swash';
+    }
+    nav a {
+        font-family: 'Berkshire Swash', cursive;
+        font-size: larger;
+    }
+
+    .dropdown-item {
+        font-size: medium;
+    }
+
+    .navbar {
+        background-color: #014213;
+    }
+
+    .dropdown-menu {
+        background-color: #074900;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+    }
+
+
+
+    .dropdown-item{
+        color: white;
+        background-color: #074900;
+
+    }
+    a:hover
+    {
+        background-color: #074900;
+    }
+
+    .card-header {
+        background-color: #074900;
+        color: white;
+    }
+
+    .card {
+        color: white;
+        background-color: #008704;
+    }
+
+    .table {
+        border-bottom: 0px !important;
+    }
+
+    .table th,
+    .table td {
+        border: 1px !important;
+    }
+
+    .fixed-table-container {
+        border: 0px !important;
+    }
